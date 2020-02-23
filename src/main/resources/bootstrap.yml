@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 'partner-registration'
+    id:  'anamadeyareg'
+    schema: 'anamadeyareg'

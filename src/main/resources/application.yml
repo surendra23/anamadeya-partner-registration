@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: root
+      password: root
+      database: anamadeya
+      port: 27017
+      host: localhost
+
+server:
+  port: 7773
