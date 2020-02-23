@@ -1,0 +1,1 @@
+# anamadeya-partner-registration
